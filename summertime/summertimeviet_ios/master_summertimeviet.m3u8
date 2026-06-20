@@ -1,0 +1,9 @@
+#EXTM3U
+## Generated with https://github.com/shaka-project/shaka-packager version v3.4.2-c819dea-release
+
+#EXT-X-INDEPENDENT-SEGMENTS
+
+#EXT-X-MEDIA:TYPE=AUDIO,URI="ios_ppn_a.m3u8",GROUP-ID="default-audio-group",NAME="stream_0",DEFAULT=NO,AUTOSELECT=YES,CHANNELS="2"
+
+#EXT-X-STREAM-INF:BANDWIDTH=4460703,AVERAGE-BANDWIDTH=3416969,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=30.000,VIDEO-RANGE=SDR,AUDIO="default-audio-group",CLOSED-CAPTIONS=NONE
+ios_ppn_v.m3u8
